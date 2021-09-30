@@ -15,7 +15,7 @@ Unit 1 Assignment (Flix App)
 
 ### App Walkthrough GIF
 
-<img src="![](https://i.imgur.com/1l4XKFz.gif)" width=250><br>
+<img src="https://i.imgur.com/1l4XKFz.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
@@ -39,3 +39,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 <img src="https://i.imgur.com/5NOYpCA.gif" width=250><br>
+
