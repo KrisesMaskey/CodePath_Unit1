@@ -15,7 +15,9 @@ Unit 1 Assignment (Flix App)
 
 ### App Walkthrough GIF
 
+
 <img src="https://i.imgur.com/Mbz0nih.gif" width=250><br>
+
 
 ### Notes
 Describe any challenges encountered while building the app.
