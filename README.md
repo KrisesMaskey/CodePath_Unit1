@@ -16,7 +16,7 @@ Unit 1 Assignment (Flix App)
 ### App Walkthrough GIF
 
 
-<img src="https://i.imgur.com/lqs18Cc.gif" width=250><br>
+<img src="https://i.imgur.com/gU6Mnp7.gif" width=250><br>
 
 
 ### Notes
